@@ -1,4 +1,4 @@
 # links
-Linki z rolek:
+Linki do rolek:
 
-np. ioquake3.com
+np. ioquake3.org
