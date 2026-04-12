@@ -1,5 +1,8 @@
 # linki
 
+12/04/2026: Open Fodder
+https://github.com/OpenFodder/openfodder
+
 02/04/2026: Scaled Resolution Editor
 https://www.monitortests.com/forum/Thread-Scaled-Resolution-Editor-SRE?page=1
 
