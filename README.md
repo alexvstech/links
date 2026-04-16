@@ -1,5 +1,9 @@
 # linki
 
+16/04/2026: Arch Linux od zera: przygotowanie do instalacji
+Oficjalna strona: https://archlinux.org
+Rufus: https://rufus.ie
+
 12/04/2026: Open Fodder
 https://github.com/OpenFodder/openfodder
 
