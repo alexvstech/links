@@ -1,5 +1,7 @@
 # linki
 
+19/04/2026: Minecraft na Saturnie: https://youtu.be/mBbxDlXzxAY?si=_ld6XWQrDp5A5rCY
+
 16/04/2026: Arch Linux od zera: przygotowanie do instalacji
 Oficjalna strona: https://archlinux.org
 Rufus: https://rufus.ie
