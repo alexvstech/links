@@ -1,5 +1,9 @@
 # linki
 
+26/04/2026: Mac OS na Wii:
+blog: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+repo: https://github.com/bryankeller/wiiMac
+
 19/04/2026: Minecraft na Saturnie: https://youtu.be/mBbxDlXzxAY?si=_ld6XWQrDp5A5rCY
 
 16/04/2026: Arch Linux od zera: przygotowanie do instalacji
