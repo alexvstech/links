@@ -1,5 +1,10 @@
 # linki
 
+10/05/2026: TP dekompilacja:
+https://twilitrealm.dev
+Repo:
+https://github.com/TwilitRealm/dusk/releases/tag/v1.0.0
+
 26/04/2026: Mac OS na Wii:
 blog: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
 repo: https://github.com/bryankeller/wiiMac
